@@ -1,2 +1,2 @@
 #!/bibn/bash
-echo -e "Hello World"
+echo -e "Hello, World"
