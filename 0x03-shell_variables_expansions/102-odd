@@ -1,0 +1,2 @@
+#!/bib/bassh
+paste -d, - - | cut -d, -f1
